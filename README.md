@@ -44,6 +44,6 @@ Setup your machine.
 
 You can run the tests directly from the IntelliJ, by right-clicking and Run test.
 
-**Output**
-
+Output
+------
 ![output](https://github.com/user-attachments/assets/448beaf3-6ef4-44c8-8c15-3d60b1155716)
