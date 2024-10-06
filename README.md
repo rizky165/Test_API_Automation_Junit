@@ -43,6 +43,7 @@ Setup your machine.
 [Test](https://github.com/rizky165/Test_API_Automation_Junit/blob/master/src/test/java/pages/ApiPages.java) : Send a get Request of an API and validate the body
 
 You can run the tests directly from the IntelliJ, by right-clicking and Run test.
+
 **Output**
 
 ![output](https://github.com/user-attachments/assets/448beaf3-6ef4-44c8-8c15-3d60b1155716)
